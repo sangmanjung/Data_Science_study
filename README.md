@@ -1,4 +1,4 @@
-### Data_Science_study_N_application
+### Data_Science_study_N_applications
 
 #### Study and practice Machine Learning, Deep Learning and Data Analysis for Kaggle.
 
