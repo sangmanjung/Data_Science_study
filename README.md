@@ -2,8 +2,16 @@
 
 Learn and practice numerical linear algebra, computational statistics, machine learning and deep learning algorithm, SQL (database) and data analysis techniques in this repository.
 
-#### __Contents__
+- __Contents__
 
-- __[basic]__  [(click to go)](https://github.com/sangmanjung/Data_Science_study_with_Python/tree/main/basic)  
-  _study and practice overall DS & DA._
-
+    - __Computational Statistics__  [(click to go)](https://github.com/sangmanjung/Data_Science_study_with_Python/tree/main/basic)  
+    
+    - __Data Analysis Techniques__  [(click to go)](https://github.com/sangmanjung/Data_Science_study_with_Python/tree/main/basic)  
+    
+    - __Deep Learning Algorithm__  [(click to go)](https://github.com/sangmanjung/Data_Science_study_with_Python/tree/main/basic)  
+    
+    - __Numerical Linear Algebra__  [(click to go)](https://github.com/sangmanjung/Data_Science_study_with_Python/tree/main/basic)  
+    
+    - __Machine Learning Algorithm__  [(click to go)](https://github.com/sangmanjung/Data_Science_study_with_Python/tree/main/basic)  
+    
+    - __SQL Programming__  [(click to go)](https://github.com/sangmanjung/Data_Science_study_with_Python/tree/main/basic)  
