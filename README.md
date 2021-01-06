@@ -1,4 +1,4 @@
-### Data_Science_study_with_Python
+### Data_Science_study_N_application
 
 #### Study and practice Machine Learning, Deep Learning and Data Analysis for Kaggle.
 
