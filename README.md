@@ -29,7 +29,7 @@ Learn and practice numerical linear algebra, computational statistics, machine l
         
    - __SQL Programming__  [(click to go)](https://github.com/sangmanjung/Data_Science_study_with_Python/tree/main/basic)  
 
-      > HackRank, https://www.hackerrank.com/  
+      > HackerRank, https://www.hackerrank.com/  
       > Programmers, https://programmers.co.kr/  
       > LeetCode, https://leetcode.com/  
       
