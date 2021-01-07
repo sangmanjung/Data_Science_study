@@ -14,13 +14,10 @@ Learn and practice numerical linear algebra, computational statistics, machine l
       > [1] 권철민 (2019), *파이썬 머신러닝 완벽 가이드* , 위키북스.  
       > [2] 정권우 (2018), *Kaggle 우승작으로 배우는 머신러닝 탐구생활*, 비제이퍼블릭.  
     
-   - __Deep Learning Algorithm__  [(click to go)](https://github.com/sangmanjung/Data_Science_study_with_Python/tree/main/basic)  
+   - __ML and DL Algorithms__  [(click to go)](https://github.com/sangmanjung/Data_Science_study_with_Python/tree/main/basic)  
     
-      > Goodfellow, I., Bengio, Y., Courville, A., & Bengio, Y. (2016), *Deep learning (Vol. 1, No. 2)*, MIT press.  
-    
-   - __Machine Learning Algorithm__  [(click to go)](https://github.com/sangmanjung/Data_Science_study_with_Python/tree/main/basic)  
-   
-      > Murphy, K. P. (2012), *Machine learning: a probabilistic perspective*, MIT press.  
+      > [1] Murphy, K. P. (2012), *Machine learning: a probabilistic perspective*, MIT press.  
+      > [2] Goodfellow, I., Bengio, Y., Courville, A., & Bengio, Y. (2016), *Deep learning (Vol. 1, No. 2)*, MIT press.  
     
    - __Numerical Linear Algebra__  [(click to go)](https://github.com/sangmanjung/Data_Science_study_with_Python/tree/main/basic)  
    
