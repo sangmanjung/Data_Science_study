@@ -32,3 +32,7 @@ LIMIT 2
 -- problem #5 DATETIME에서 DATE로 형 변환
 SELECT animal_id, name, left(datetime,10) FROM animal_ins
 ORDER BY animal_id
+
+-- another solution for problem #5
+SELECT animal_id, name, date_format(datetime,'%Y-%m-%d') FROM ANIMAL_INS
+ORDER BY animal_id
