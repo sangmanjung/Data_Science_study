@@ -4,7 +4,7 @@ Learn and practice data analysis techniques numerical linear algebra and SQL (da
 
 ### __Contents__
       
-   - __Data Analysis Projects__  [(click to go)](https://github.com/sangmanjung/Data_Science_study_with_Python/tree/main/Data_Analysis_Techniques)  
+   - __Data Analysis Projects__  [(click to go)](https://github.com/sangmanjung/Data_Science_study_N_applications/tree/main/Data_Analysis_Projects)  
     
       > [1] Murphy, K. P. (2012), *Machine learning: a probabilistic perspective*, MIT press.  
       > [2] Goodfellow, I., Bengio, Y., Courville, A., & Bengio, Y. (2016), *Deep learning (Vol. 1, No. 2)*, MIT press.  
