@@ -1,14 +1,14 @@
 ## __Data Analysis Projects__
     
-- __Contents__
+#### __Contents__
       
-    - __[data_analysis_techniques]__ [(click to go)](https://github.com/sangmanjung/Data_Science_study_N_applications/tree/main/Data_Analysis_Projects/data_analysis_techniques)  
-        _Learn and practice the basic data analysis techniques and ML & DL algorithms_
+   - __[data_analysis_techniques]__ [(click to go)](https://github.com/sangmanjung/Data_Science_study_N_applications/tree/main/Data_Analysis_Projects/data_analysis_techniques)  
+       _Learn and practice the basic data analysis techniques and ML & DL algorithms_
   
-    - __[kaggle_competitions]__  
-        _Practice the kaggle problems_  
+   - __[kaggle_competitions]__  
+       _Challenge the kaggle competition problems_  
       
-- __References__
+#### __References__
       
    > [1] Murphy, K. P. (2012), Machine learning: a probabilistic perspective, MIT press.  
    > [2] Goodfellow, I., Bengio, Y., Courville, A., & Bengio, Y. (2016), Deep learning (Vol. 1, No. 2), MIT press.  
