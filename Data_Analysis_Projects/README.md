@@ -5,7 +5,7 @@
    - __[data_analysis_techniques]__ [(click to go)](https://github.com/sangmanjung/Data_Science_study_N_applications/tree/main/Data_Analysis_Projects/data_analysis_techniques)  
        _Learn and practice the basic data analysis techniques and ML & DL algorithms_
   
-   - __[kaggle_competitions]__  
+   - __[kaggle_competitions]__ [(click to go)](https://github.com/sangmanjung/Data_Science_study_N_applications/tree/main/Data_Analysis_Projects/kaggle_competitions)  
        _Challenge the kaggle competition problems_  
       
 #### __References__
