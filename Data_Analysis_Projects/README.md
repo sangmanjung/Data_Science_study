@@ -2,13 +2,13 @@
     
 #### __Contents__
       
-   - __[Kaggle_myNotebook]__[(click to go)](https://github.com/sangmanjung/Data_Science_study_N_applications/edit/main/Data_Analysis_Projects/Kaggle_myNotebook)  
+   - __[Kaggle_myNotebook]__[(click to go)](https://github.com/sangmanjung/Data_Science_study/edit/main/Data_Analysis_Projects/Kaggle_myNotebook)  
        _My kaggle competition notebooks_  
        
-   - __[Kaggle_study]__[(click to go)](https://github.com/sangmanjung/Data_Science_study_N_applications/edit/main/Data_Analysis_Projects/Kaggle_study)  
+   - __[Kaggle_study]__[(click to go)](https://github.com/sangmanjung/Data_Science_study/edit/main/Data_Analysis_Projects/Kaggle_study)  
        _Study the notebooks (kernels) of various competitions in kaggle_     
       
-   - __[data_analysis_techniques]__ [(click to go)](https://github.com/sangmanjung/Data_Science_study_N_applications/tree/main/Data_Analysis_Projects/data_analysis_techniques)  
+   - __[data_analysis_techniques]__ [(click to go)](https://github.com/sangmanjung/Data_Science_study/tree/main/Data_Analysis_Projects/data_analysis_techniques)  
        _Learn and practice the basic data analysis techniques and ML & DL algorithms_
   
    - __[project_demo]__  
