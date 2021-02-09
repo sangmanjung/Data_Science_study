@@ -2,7 +2,6 @@
 ## Binary classification : Tabular data
 ### 1st level. Titanic: Machine Learning from Disaster  
 - [Introduction to Ensembling/Stacking in Python](https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python)  
-- EDA To Prediction(DieTanic)  
 - Titanic Top 4% with ensemble modeling  
 ### 2nd level. Porto Seguro’s Safe Driver Prediction
 - Data Preparation & Exploration
